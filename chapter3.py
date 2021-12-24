@@ -54,3 +54,5 @@ print(W.shape)
 
 Y = np.dot(X,W)
 print(Y)
+
+
